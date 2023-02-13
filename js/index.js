@@ -1,1 +1,0 @@
-console.log("Git ko San kyi dar bar");
